@@ -1,30 +1,28 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ### Screenshot
 
 <img width="2538" height="1439" alt="screenshot" src="https://github.com/user-attachments/assets/e53e96a9-23de-4152-b190-f608e6b8df80" />
 
-### Links
+## Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
 - [Styled Components](https://styled-components.com/) - For styles
 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Author
 
-- Website - [Guilherme Freire](https://github.com/RavineEnvy)
-- Frontend Mentor - [@RavineEnvy](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Guilherme Freire](https://github.com/RavineEnvy)
+- Frontend Mentor - [@RavineEnvy](https://www.frontendmentor.io/profile/RavineEnvy) 
 - Twitter - [@EnvyRavine](https://https://x.com/EnvyRavine)
-
-## Technologies and Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
