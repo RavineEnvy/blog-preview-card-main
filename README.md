@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.assets/images/sreenshot.jpg)
+<img width="2538" height="1439" alt="screenshot" src="https://github.com/user-attachments/assets/e53e96a9-23de-4152-b190-f608e6b8df80" />
 
 ### Links
 
