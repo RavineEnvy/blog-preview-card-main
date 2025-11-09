@@ -112,7 +112,7 @@ body {
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    min-width: 380px;
+    max-width: 380px;
     gap: 8px;
 }
 
