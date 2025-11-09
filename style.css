@@ -102,13 +102,17 @@ body {
 }
 
 .blog-container {
-    max-width: 23em;
-    padding: 1.5rem;
-    margin: 0 1.5rem;
-    border-radius: 1rem;
-    box-shadow: 6px 7px 0px var(--clr-Black);
-    background: var(--clr-White);
-    transition: box-shadow .1s ease;
+    background-color: var(--clr-White);
+    border-radius: 20px;
+    border: 1.5px solid var(--clr-Grey);
+    box-shadow: 8px 8px 0px var(--clr-Black);
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    width: 380px;
+    gap: 8px;
 }
 
 .blog-container:hover {
