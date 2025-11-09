@@ -104,7 +104,7 @@ body {
 .blog-container {
     background-color: var(--clr-White);
     border-radius: 20px;
-    border: 1.5px solid var(--clr-Grey);
+    border: 1.6px solid var(--clr-Grey);
     box-shadow: 8px 8px 0px var(--clr-Black);
     transition: box-shadow 0.2s ease;
     padding: 24px;
@@ -113,7 +113,7 @@ body {
     align-items: start;
     justify-content: center;
     max-width: 380px;
-    gap: 8px;
+    gap: 5px;
 }
 
 .blog-container:hover {
